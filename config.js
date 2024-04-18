@@ -1,12 +1,12 @@
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866'
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
-global.instagram = 'https://instagram.com/erlanrahmat_14'
-global.wm = '© Tio'
+global.owner = ['6282139677593']  
+global.mods = ['6282139677593'] 
+global.prems = ['6282139677593']
+global.nameowner = 'RK'
+global.numberowner = '6282139677593'
+global.mail = 'su285959@gmail.com' 
+global.gc = 'https://whatsapp.com/channel/0029VaBl0VOAInPsCK1JJG3A'
+global.instagram = 'https://www.instagram.com/kiyxzxy?igsh=MTV1dmFub3BjY2phOA=='
+global.wm = '© RK'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -15,11 +15,11 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.lann = 'YOUR_APIKEY_HERE' 
+global.lann = 'b8hWo6Dp' 
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.btc = 'YOUR_APIKEY_HERE'
+global.btc = 'sYOQyJPu'
 //Daftar https://api.botcahx.eu.org 
 
 global.APIs = {   
@@ -27,8 +27,8 @@ global.APIs = {
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.betabotz.eu.org': 'APIKEY', 
-  'https://api.botcahx.eu.org': 'APIKEY'
+  'https://api.betabotz.eu.org': 'b8hWo6Dp', 
+  'https://api.botcahx.eu.org': 'sYOQyJPu'
 }
 
 let fs = require('fs')
